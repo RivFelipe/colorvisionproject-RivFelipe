@@ -1,12 +1,12 @@
-# !!!Replace with your unique project name!!!
+# C++ Color Now
 
 ## Description
 
-!!!Replace with a description of what your program does!!!
+The program is supposed to take hexadecimal values and output them with their corresponding RGB values.
 
 ## Developer
 
-!!!Replace with your name!!!
+Felipe Rivera
 
 ## Example
 
@@ -27,20 +27,20 @@ Here is an example of the program running:
 
 ### Variables and Data Types
 
-!!!Replace with a summary and examples of how multiple variables have been used with a variety of data types and why they have been used effectively and appropriately!!!
+The data types I used in the program were: `int` and declared them in the program as `R,G,B`. I also used `string` declaring it as `p1,p2,p3`
 
 ### Input and Output
 
-!!!Replace with a summary and examples of how input and output have been used effectively and appropriately!!!
+The `cout` statements are not being printed out into the program also not allowing for the rest of the `cin` statements to be printed out. Which assigns vaules to the variables.
 
 ### Decisions
 
-!!!Replace with a summary and examples of how multiple decision constructs have been used effectively and appropriately!!!
+The decision construct that I made was uneffective and was not written out properly.
 
 ### Iteration
 
-!!!Replace with a summary and examples of how iteration has been used effectively and appropriately!!!
+No iteration was used in my code but I do know for the program it will be useful to have a `for` loop and possibly a `do while` loop.
 
 ### File Input and Output
 
-!!!Replace with a summary and examples of how input and/or output of files have been used effectively and appropriately!!!
+The way I wrote the code it wont print what I want it to so i cant get any input.
